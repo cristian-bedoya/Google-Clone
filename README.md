@@ -15,7 +15,7 @@ In this repository, I created a simple clone static of Google home page using HT
 
 ## Website
 
-Chekc out this [page](https://cristian-bedoya.github.io/Google-Clone/)
+Check out this [page](https://cristian-bedoya.github.io/Google-Clone/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
